@@ -50,3 +50,5 @@ O mesmo consiste em um cadastro de produtor rural com os seguintes dados:
 
 - O desenvolvedor full-stack deve realizar ambos, e concluir a integração.
   > Não envie a solução como anexo, suba os fontes para seu Github (ou outro repositório) e envie o link para o avaliador.
+
+--- teste bárbara
